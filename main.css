@@ -66,5 +66,9 @@ li:hover {
 }
 
 #sidebartoggler:checked + .page-wrapper > .page-content {
+    /* This is OPTIONAL...only if you want to slide the page content to the right as well.
+    
     padding-left: 180px;
+    
+    */
 }
